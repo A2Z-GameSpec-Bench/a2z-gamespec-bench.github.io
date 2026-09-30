@@ -1,0 +1,23 @@
+{
+  "package": "@lobehub/icons-static-svg",
+  "version": "1.95.1",
+  "icons": [
+    "claude-color.svg",
+    "openai.svg",
+    "zhipu-color.svg",
+    "deepseek-color.svg",
+    "kimi-color.svg"
+  ],
+  "license": "MIT",
+  "license_source": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/LICENSE",
+  "package_homepage": "https://github.com/lobehub/lobe-icons",
+  "source_readme": "https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/README.md",
+  "note": "SVGs copied byte-for-byte from npm package. LICENSE fetched from repository root because package tarball omits it. OpenAI original uses currentColor; external img can display white via CSS filter brightness(0) invert(1). GLM uses zhipu; no glm.svg in package.",
+  "site_mapping": {
+    "claude.svg": "claude-color.svg",
+    "openai.svg": "openai.svg",
+    "glm.svg": "zhipu-color.svg",
+    "deepseek.svg": "deepseek-color.svg",
+    "kimi.svg": "kimi-color.svg"
+  }
+}
